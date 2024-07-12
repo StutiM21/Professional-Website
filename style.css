@@ -1,0 +1,21 @@
+.full-width{
+    width: 100%;
+    height: 30%;
+}
+.feature-item img{
+    height: auto;
+    width: 50px;
+}
+.subscribe{
+    background-image: url(img/typing.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.brand-icon img{
+    width: 50px;
+    height: auto;
+}
+.blur-filter{
+    backdrop-filter: blur(5px);
+    background-color: rgb(255, 255, 255 / 30%);
+}
